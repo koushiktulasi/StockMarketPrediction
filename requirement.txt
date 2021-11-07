@@ -66,6 +66,7 @@ contextlib2=0.6.0=py_0
 convertdate=2.3.2=pypi_0
 cryptography=2.7=py37h7a1dbc1_0
 curl=7.65.3=h2a8f88b_0
+cufflinks==0.17.3
 cycler=0.10.0=py37_0
 cython=0.29.21=pypi_0
 cytoolz=0.10.0=py37he774522_0
