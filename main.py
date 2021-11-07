@@ -1,6 +1,5 @@
 import streamlit as st
 from datetime import date
-import plotly
 from plotly import graph_objs as go
 from yahoofinancials import YahooFinancials
 from nsetools import Nse
